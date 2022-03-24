@@ -1,0 +1,48 @@
+{
+    "token": "OTU1NzM2MTE2OTQwNjQ4NDg4.YjmAng.DeSy8zPIVRfSKlVQnTPJp-THD8M",
+    "prefix": "//",
+    "ownerIDS": [
+        "950613304991182928"
+    ],
+    "fnbr": "4cc5f0ad-acfa-45d3-b2d9-1c67a62e67fe",
+    "fortnitetracker": "b6351ca3-cfdf-4a60-bc83-d1a98ea9b49f",
+    "memer_api": "mARVVcSHI7g",
+    "status": {
+        "text": "{prefix}help | on {guildcount} Servers, with {membercount} Members",
+        "text2": "By: discord.gg/YtHDAEJWJ3",
+        "type": "PLAYING",
+        "url": "https://twitch.tv/NotKisshore"
+    },
+    "clientsettings": {
+        "nodes": [
+           {
+              "host": "losingtime.dpaste.org",
+              "port": 2124,
+              "password": "SleepingOnTrains"
+           }
+        ]
+     },
+    "spotify": {
+        "clientSecret": "21656bd50d22429d95e8ef6ca86b8bba",
+        "clientID": "448423745a5841018dd529172f2f124c"
+    },
+    "settings": {
+        "COMMENT": "0",
+        "leaveOnEmpty_Channel": {
+            "enabled": true,
+            "time_delay": 30000
+        },
+        "LeaveOnEmpty_Queue": {
+            "enabled": true,
+            "time_delay": 30000
+        },
+        "selfDeaf": true
+    },
+    "lyricssettings": {
+        "lyrics_finder": true,
+        "ksoft_api": {
+            "use_this_instead": true,
+            "api_key": "DISABLED"
+        }
+    }
+}

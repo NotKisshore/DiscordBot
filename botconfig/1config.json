@@ -1,0 +1,46 @@
+{
+    "token": "OTU1NzQ3MTc3Nzg1ODc2NDgw.YjmK7A.RYdgp8vJM9f09PhuhGHqWTCQN2I",
+    "prefix": "//",
+    "ownerIDS": [
+        "950613304991182928"
+    ],
+    "memer_api": "mARVVcSHI7g",
+    "status": {
+        "text": "{prefix}help | on {guildcount} Servers, with {membercount} Members",
+        "text2": "By: discord.gg/YtHDAEJWJ3",
+        "type": "PLAYING",
+        "url": "https://twitch.tv/NotKisshore"
+    },
+    "clientsettings": {
+        "nodes": [
+           {
+              "host": "losingtime.dpaste.org",
+              "port": 2124,
+              "password": "SleepingOnTrains"
+           }
+        ]
+     },
+    "spotify": {
+        "clientSecret": "8cba16cad2e243cda21c3fcf4538e5f8",
+        "clientID": "52ad218fe09e463f8cb9e110902946ef"
+    },
+    "settings": {
+        "COMMENT": "0",
+        "leaveOnEmpty_Channel": {
+            "enabled": true,
+            "time_delay": 30000
+        },
+        "LeaveOnEmpty_Queue": {
+            "enabled": true,
+            "time_delay": 30000
+        },
+        "selfDeaf": true
+    },
+    "lyricssettings": {
+        "lyrics_finder": true,
+        "ksoft_api": {
+            "use_this_instead": true,
+            "api_key": "DISABLED"
+        }
+    }
+}
